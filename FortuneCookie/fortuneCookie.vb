@@ -16,11 +16,11 @@ Module fortuneCookie
 
         Select Case Luck(1, 3)
             Case 1
-                Console.WriteLine("Gamble more!")
+                Console.WriteLine("Buy more lottery tickets to avoid danger.")
             Case 2
-                Console.WriteLine("Keep calm and kirchoff it out.")
+                Console.WriteLine("Something is going to happen to you...")
             Case 3
-                Console.WriteLine("Eat healthy.")
+                Console.WriteLine("The road ahead will be filled with peril.")
 
         End Select
 
